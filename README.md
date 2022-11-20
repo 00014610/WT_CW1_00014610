@@ -8,7 +8,7 @@ website in mobile and other versions. Basic JavaScript was used for website anim
 to the top when the website is scrolled, the changes in the responsive state of the navbar, and the creation of animations in the questions section.  
 During the creation of this, I had trouble adapting the CSS to the mobile version and the tablet version. Also, I had trouble with JavaScript animations in 
 buttons parts, and I found a solution for them by searching through google. I also used Font Awesome, a website that shares icons for social media, navbar bars, 
-and other elements to create this website.
+and other elements to create this website. All codes are checked by validador and the main problem is that doesn't have alt property in images. 
 
 Links:
   Web hosting links of cw1
